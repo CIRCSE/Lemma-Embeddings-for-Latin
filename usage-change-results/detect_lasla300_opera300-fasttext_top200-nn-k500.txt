@@ -1,0 +1,453 @@
+equus
+niger
+altus
+pes
+sacer
+insto
+membrum
+sanguis
+patrius
+rapio
+uirgo
+gradus
+lumen
+brutus
+fundo
+facies
+traho
+tendo
+compono
+lingua
+multitudo
+lapis
+deficio
+nobilis
+orbis
+purus
+impono
+misceo
+sedeo
+femina
+tango
+celebro
+cesso
+uetus
+antiquus
+colligo
+excito
+uinum
+aduentus
+color
+semen
+condo
+curro
+imago
+propinquus
+aer
+cor
+inanis
+sto
+impius
+cado
+orior
+erro
+uniuersus
+filia
+plenus
+praesum
+intro
+luna
+lux
+numerus
+conficio
+gigno
+infero
+praebeo
+subeo
+audacia
+cresco
+auctor
+paucus
+produco
+respicio
+sol
+augeo
+ceterus
+educo
+decet
+frequens
+magister
+offero
+posterus
+uinculum
+uiuus
+addo
+aperio
+coniungo
+damno
+desino
+impero
+ira
+libertas
+magnitudo
+mundus
+nomino
+redeo
+quies
+auxilium
+cultus
+desero
+dispono
+initium
+mulier
+reduco
+soluo
+uia
+corrumpo
+sermo
+sumo
+accedo
+conuerto
+resisto
+deduco
+integer
+intueor
+iuuo
+muto
+opinio
+parens
+pax
+curo
+exerceo
+prohibeo
+auctoritas
+descendo
+dignitas
+impleo
+incipio
+iuro
+remoueo
+comparo
+statuo
+casus
+profero
+saeculum
+uxor
+leuis
+odium
+tento
+cogitatio
+concedo
+morbus
+qualis
+sustineo
+amo
+littera
+confirmo
+contineo
+dignus
+inimicus
+aufero
+furtum
+instruo
+cibus
+consuetudo
+gaudium
+hora
+inuidia
+retineo
+societas
+efficio
+gaudeo
+occurro
+quaestio
+quanto
+imitor
+obtineo
+praemium
+dubius
+exemplum
+instituo
+oro
+praetereo
+remedium
+trado
+ars
+careo
+consumo
+doleo
+lego
+memoria
+remitto
+contemno
+diuido
+epistola
+error
+nascor
+religio
+delecto
+dimitto
+fallo
+fruor
+laus
+perpetuus
+exeo
+maneo
+transeo
+turpis
+amitto
+committo
+constituo
+
+nn top 50 explained
+=================
+
+equus
+count in corpus1: 814, count in corpus2: 212, measure: 41
+currus, eques, turma, curuus, pedes, equitatus, pugna, equester, numidae, rota
+socrates, amplus, multus, homo, irrationalis, animalis, domus, diuersus, communis, distinguo
+
+niger
+count in corpus1: 264, count in corpus2: 205, measure: 41
+candidus, uiridis, ater, liquidus, densus, gemma, serpens, pinguis, crinis, capillus
+albedo, differentia, contrarietas, affirmatio, alteratio, contrarius, negatio, oppono, priuatio, terminus
+
+altus
+count in corpus1: 742, count in corpus2: 681, measure: 47
+saltus, alte, altum, uastus, celsus, occultus, altitudo, arduus, rupes, fastigium
+intellectualis, perficio, sum, intellectus, nobilis, eleuo, alius, cognitio, dico, status
+
+pes
+count in corpus1: 840, count in corpus2: 219, measure: 52
+digitus, rupes, spes, demitto, rota, proicio, fossa, incumbo, puppis, uadum
+oculus, ambulo, dominus, animalis, alius, sum, totus, proprius, membrum, designo
+
+sacer
+count in corpus1: 360, count in corpus2: 1048, measure: 54
+sacrum, sanctus, lucus, sepulcrum, ceres, iuno, acer, fanum, focus, apollo
+scriptura, doctrina, sacrilegium, ecclesia, trado, canon, instruo, solemnitas, ecclesiasticus, auctoritas
+
+insto
+count in corpus1: 255, count in corpus2: 1007, measure: 55
+urgeo, insequor, sisto, turbo, infestus, incito, obsto, minor, perterreo, incumbo
+successiuus, terminus, successio, creatio, conceptio, praecedo, motus, mutatio, prior, arbitrium
+
+membrum
+count in corpus1: 412, count in corpus2: 1125, measure: 55
+artus, uiscus, lacertus, aeuum, gena, mergo, merum, tremo, aer, neruus
+ecclesia, alius, quantum, habeo, humanus, mysticus, christus, homo, instrumentum, unctio
+
+sanguis
+count in corpus1: 756, count in corpus2: 1073, measure: 58
+cruor, pinguis, cruentus, uulnus, gena, cinis, uiscus, saeuitia, manes, saeuio
+consecratio, uinum, christus, sacramentum, panis, calix, consecro, baptisma, caro, crux
+
+patrius
+count in corpus1: 332, count in corpus2: 686, measure: 61
+patria, penates, paternus, patruus, patrimonium, externus, patronus, tiberius, pius, priamus
+beatus, caritas, perficio, status, beatitudo, comprehensor, uideo, euacuo, uiator, uisio
+
+rapio
+count in corpus1: 624, count in corpus2: 215, measure: 61
+rapidus, diripio, saeuio, eripio, furo, scindo, immitto, gemo, sapio, puppis
+raptus, nescio, rapina, apostolus, uisio, paulus, augustinus, eleuo, uiolentia, uox
+
+uirgo
+count in corpus1: 350, count in corpus2: 1088, measure: 61
+iuno, achilles, nupta, hymenaeus, nympha, soror, alcides, regina, hymen, maritus
+uirginitas, maria, uterus, beatus, conceptio, partus, caro, natiuitas, christus, possum
+
+gradus
+count in corpus1: 271, count in corpus2: 1251, measure: 62
+praeceps, fastigium, summum, sedeo, arduus, penates, euado, pondus, capitolium, curuus
+perficio, diuersus, consanguinitas, perfectio, diuersitas, officium, propinquitas, distinguo, frater, genus
+
+lumen
+count in corpus1: 488, count in corpus2: 1737, measure: 63
+flumen, numen, gena, limen, aether, rogus, hymen, umbra, sidus, fax
+illumino, illuminatio, intelligibilis, propheticus, uisio, cognitio, reuelatio, intellectus, lucidus, claritas
+
+brutus
+count in corpus1: 277, count in corpus2: 544, measure: 64
+cassius, antonius, domitius, imperator, hortensius, tutus, metellus, gabinius, lepidus, uox_breuiata
+animalis, sensitiuus, rationalis, irrationalis, anima, intellectiuus, planta, appetitus, nutritiuus, instinctus
+
+fundo
+count in corpus1: 335, count in corpus2: 497, measure: 65
+effundo, fugo, spargo, tendo, misceo, dispergo, funus, fulgeo, porrigo, fundus
+fundamentum, dico, requiro, similis, diffundo, nihil, pateo, relatio, paternitas, alius
+
+facies
+count in corpus1: 385, count in corpus2: 316, measure: 66
+acies, coma, forma, uultus, palma, gena, decorus, formosus, frons, figura
+dominus, speculum, claritas, breuiata, uisio, dico, conspicio, loquor, moyses, terra
+
+traho
+count in corpus1: 626, count in corpus2: 539, measure: 67
+detraho, trado, tracto, corripio, carpo, rapio, uagus, rapidus, scindo, torqueo
+similis, pecco, dico, parens, possum, cognatio, eam, originalis, relinquo, nullus
+
+tendo
+count in corpus1: 295, count in corpus2: 1164, measure: 68
+contendo, ascendo, pando, descendo, suspendo, offendo, incendo, scindo, commendo, uendo
+appetitus, finis, inclinatio, uoluntas, bonus, motus, obicio, concupiscibilis, appetitiuus, inclino
+
+compono
+count in corpus1: 441, count in corpus2: 1368, measure: 69
+praepono, oppono, repono, propono, dispono, depono, firmo, comprimo, eximo, compello
+compositio, compositum, subsisto, forma, quidditas, anima, corpus, incorruptibilis, subsistens, esse
+
+lingua
+count in corpus1: 322, count in corpus2: 295, measure: 69
+fallax, blandus, musa, iners, uates, ars, pulso, risus, faueo, timidus
+munus, doctrina, osoris, manifesto, do, propheto, utilitas, caerimonia, locutio, utor
+
+multitudo
+count in corpus1: 537, count in corpus2: 902, measure: 69
+altitudo, nostri, circumuenio, complures, turpitudo, multi, aduersarius, perterreo, solitudo, munitio
+unitas, multiplico, diuisio, multiplicatio, pluralitas, princeps, diuisibilis, positiuus, principatus, dux
+
+lapis
+count in corpus1: 257, count in corpus2: 514, measure: 70
+gemma, radix, humor, puppis, turris, ferrum, pons, cauus, rota, agger
+deorsum, fero, intelligo, uisus, sursum, aedifico, res, talis, organum, repraesentatio
+
+deficio
+count in corpus1: 291, count in corpus2: 1419, measure: 71
+reficio, afficio, conficio, efficio, praeficio, interficio, despero, conspicio, deicio, eicio
+defectus, contingo, malus, prouenio, dico, inuenio, alius, ratio, quantum, regula
+
+nobilis
+count in corpus1: 508, count in corpus2: 1220, measure: 71
+illustris, incredibilis, humilis, hostilis, utilis, socer, imprimis, filius, insignis, familia
+altus, intellectualis, perfectibilis, actiuus, rationalis, perficio, anima, corpus, operatio, uegetabilis
+
+orbis
+count in corpus1: 544, count in corpus2: 208, measure: 71
+astrum, rota, oriens, bis, troia, immensus, aether, mars, italia, digitus
+motor, corpus, generabilis, inferus, immediatus, dico, elementum, corporeus, angelus, positio
+
+purus
+count in corpus1: 220, count in corpus2: 662, measure: 72
+purpureus, liquidus, rus, sal, castus, obscurus, placidus, taurus, rarus, frigidus
+possum, puritas, mundo, dico, oportet, materia, satisfacio, sanctifico, debeo, mereo
+
+impono
+count in corpus1: 508, count in corpus2: 708, measure: 73
+repono, depono, oppono, dispono, expono, interpono, praepono, imperium, impune, insigne
+impositio, significo, absoluo, iniungo, competo, quamuis, diuinus, significatio, sacerdos, modus
+
+misceo
+count in corpus1: 426, count in corpus2: 291, measure: 73
+spargo, saeuio, fundo, puluis, coeo, fletus, et, passim, coerceo, liquidus
+mistio, elementum, elementaris, altero, materia, panis, admisceo, commixtio, compono, forma
+
+sedeo
+count in corpus1: 381, count in corpus2: 310, measure: 73
+pendeo, sedes, celsus, rideo, curuus, prodeo, theatrum, consido, cunctor, gradus
+dexter, socrates, dauid, pater, ascensio, dominus, propheto, contingo, deus, necessarius
+
+femina
+count in corpus1: 395, count in corpus2: 296, measure: 74
+maritus, regina, domina, adulter, stuprum, agrippina, nupta, puella, flagitium, probrum
+mas, sexus, coitus, concubitus, semen, commixtio, ministro, nutrimentum, generatio, natura
+
+tango
+count in corpus1: 388, count in corpus2: 567, measure: 74
+tingo, attingo, frango, pingo, iungo, fingo, cingo, spargo, laedo, placo
+contactus, tactus, obiectio, pateo, omnis, auctoritas, augustinus, sacramentalis, sacramentum, uideo
+
+celebro
+count in corpus1: 212, count in corpus2: 295, measure: 75
+ludus, laetitia, augustus, magnificus, otho, epulae, antiquus, princeps, theatrum, hymen
+missa, sacramentum, ecclesia, consecro, solemnis, dominicus, solemnitas, eucharistia, consecratio, papa
+
+cesso
+count in corpus1: 206, count in corpus2: 666, measure: 75
+lacesso, arcesso, uerso, nequiquam, pulso, ceres, fallax, paeniteo, heu, uigilo
+remaneo, duro, quandiu, consummo, desisto, conseruo, consummatio, obseruo, dies, instituo
+
+uetus
+count in corpus1: 772, count in corpus2: 1037, measure: 75
+uetustas, ueteranus, institutum, ueto, fetus, sabinus, metus, praepono, et, recens
+caerimonialis, iudicialis, caerimonia, apostolus, obseruantia, obseruatio, debeo, dico, legalis, contineo
+
+antiquus
+count in corpus1: 347, count in corpus2: 385, measure: 76
+latinus, auus, sanctus, egregius, lucus, uetustas, fanum, ornatus, municipium, africanus
+pono, improbo, opinio, figuro, plato, catholicus, credo, error, mundus, iudaeus
+
+colligo
+count in corpus1: 337, count in corpus2: 243, measure: 76
+collis, colloco, affligo, passim, exigo, reliqui, obligo, nonnullus, collum, et
+pateo, contineo, totus, festus, ligo, inconueniens, commemoro, congrego, quaero, mentio
+
+excito
+count in corpus1: 311, count in corpus2: 202, measure: 76
+concito, incito, excido, cito, excipio, silentium, sollicito, quiesco, subito, recito
+deuotio, feruor, interior, praecipuus, dispono, quantum, exterior, reuoco, dispositio, mens
+
+uinum
+count in corpus1: 489, count in corpus2: 769, measure: 76
+merum, epulae, mensa, conuiuium, donum, ceno, damnum, inuito, coquo, poculum
+panis, sanguis, consecratio, conficio, consecro, sacramentum, dimensio, calix, appono, mistio
+
+aduentus
+count in corpus1: 306, count in corpus2: 261, measure: 77
+conuentus, uentus, iuuentus, proficiscor, nuntio, intentus, nuntius, commeatus, caesar, aduerto
+appareo, dico, explico, dominus, nouus, mysterium, instituo, mundus, christus, manifestus
+
+color
+count in corpus1: 394, count in corpus2: 667, measure: 77
+candidus, gemma, odor, splendor, uiridis, distinguo, fulgeo, purpureus, splendidus, nascor
+uisus, intelligibilis, superficies, uisiuus, intellectus, obicio, intelligo, sensus, qualitas, uisibilis
+
+semen
+count in corpus1: 268, count in corpus2: 1079, measure: 77
+seges, omen, frux, maturus, seco, uer, fulmen, nubes, mel, radix
+generatio, genero, generatiuus, seminalis, mas, coitus, produco, nutritiuus, caro, nutrimentum
+
+condo
+count in corpus1: 368, count in corpus2: 216, measure: 78
+concido, conduco, pando, abdo, concedo, obruo, concipio, continuo, confugio, deprehendo
+creo, creatura, creatio, natura, abscondo, deus, facio, instituo, homo, possum
+
+curro
+count in corpus1: 270, count in corpus2: 210, measure: 78
+succurro, currus, rota, curuus, narro, curo, lustro, immitto, propero, obuius
+socrates, deus, homo, impossibilis, necessarius, consilium, enuntiabilis, operor, immutabilis, eam
+
+imago
+count in corpus1: 352, count in corpus2: 1593, measure: 78
+effigies, astrum, simulacrum, uultus, titulus, falsus, ago, magnificus, rostrum, declaro
+imitatio, repraesento, trinitas, repraesentatio, creatura, imaginarius, deus, adoratio, essentia, intellectualis
+
+propinquus
+count in corpus1: 207, count in corpus2: 708, measure: 78
+propior, profugio, domitius, filius, praeficio, agrippina, hostilis, germanicus, patruus, propterea
+propinquitas, appropinquo, quanto, minusaduadi, tanto, debeo, similis, disto, gradus, perficio
+
+aer
+count in corpus1: 212, count in corpus2: 803, measure: 79
+aether, nubes, plaga, liquidus, aestus, imber, auster, sonitus, aura, aequor
+elementum, terrestris, alteratio, forma, altero, humidus, mistio, substantialis, transmuto, formatio
+
+cor
+count in corpus1: 212, count in corpus2: 1319, measure: 79
+odor, color, nascor, for, cornu, ardor, ulciscor, furor, calor, fletus
+interior, osoris, deus, perficio, homo, quantum, exterior, alius, pertineo, mando
+
+inanis
+count in corpus1: 257, count in corpus2: 342, measure: 79
+immanis, canis, uagus, inops, irritus, insum, pauidus, uagor, sonitus, mutus
+gloria, capitalis, filia, uitium, inordinatus, dico, luxuria, praemium, do, gregorius
+
+sto
+count in corpus1: 861, count in corpus2: 508, measure: 79
+sisto, consisto, exsto, exsisto, disto, struo, desisto, immitto, turbo, incumbo
+alius, christus, confirmo, sequor, respondeo, impossibilis, ecclesia, littera, antiquus, consequor
+
+impius
+count in corpus1: 236, count in corpus2: 407, measure: 80
+nefarius, sceleratus, nefas, uiolo, dirus, scelus, crudelis, clodius, conscius, ulciscor
+iustificatio, iustifico, remissio, arbitrium, infusio, liber, gratia, peccator, dominus, ulterior
