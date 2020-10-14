@@ -1,5 +1,5 @@
 # Lemma Embeddings for Latin
-Lemma embeddings for Latin can be downloaded [here](https://embeddings.lila-erc.eu/).
+Lemma embeddings for Latin can be downloaded [here](https://embeddings.lila-erc.eu/samples/download/).
 
 Embeddings have been evaluated on a novel benchmark for the synonym selection task available in the file *syn-selection-benchmark-Latin.tsv*.
 
